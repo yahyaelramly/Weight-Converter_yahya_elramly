@@ -1,8 +1,4 @@
-weight = int(input("Enter your weight: "))
-units = input("lbs or kg: ")
-if units.lower() == "lbs":
-    converted=weight*0.45
-    print(f"Your weight is {converted} kg")
-else:
-    converted=weight/0.45
-    print(f"Your weight is {converted} lbs")
+This is my first ever project i coded at 15 years old
+pretty basic stuff
+
+Weight converter turns lbs to kg and kg to lbs
