@@ -1,3 +1,6 @@
+Asks user their weight
 
+waits for input 
 
-Weight converter turns lbs to kg and kg to lbs
+then asks user the unit 
+if lbs->kg and if kg->lbs
